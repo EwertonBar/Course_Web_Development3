@@ -1,0 +1,34 @@
+.caixa{
+   background-color: rgb(102, 58, 87);
+   width: 550px;
+   height: 70px;
+   margin-top: 0px;
+   margin-left: 0px;
+   border: 0px;
+   position: relative;
+   letter-spacing: 1px;
+   justify-content: center; /*alinhamento horizontal*/
+   align-items: center; /*alinhamento vertical*/
+   display: flex;
+}
+.titulo{
+   color: white;
+   font-family: Arial, Helvetica, sans-serif;
+   text-indent: 0;
+   font-size: 26px;
+   top: 50px;
+}
+.secundário{
+    font-family: Arial, Helvetica, sans-serif;
+    size: 18px;
+    text-align: left;
+    text-indent: 0px;
+    color: rgb(235, 126, 30);
+}
+.texto{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    color: black;
+    text-indent: 50px;
+    max-width: 550px;
+}
